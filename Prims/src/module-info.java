@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author sanvi
- *
- */
-module Prims {
-}
